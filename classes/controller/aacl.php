@@ -11,7 +11,7 @@
  * @copyright	(c) Paul Banks 2010
  * @license		MIT
  */
-abstract class Controller_AACL extends Controller_Template implements AACL_Resource
+abstract class Controller_AACL extends Controller implements AACL_Resource
 {
 	/**
 	 * AACL_Resource::acl_id() implementation
